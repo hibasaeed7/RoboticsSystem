@@ -69,4 +69,4 @@ Upload the control firmware to the microcontroller.
 
 Run the C control script for real-time motion commands.
 
-
+Contributors: Hiba Saeed, Brendan Chharawala, Michael McPhee, Shreya Sivakumar
